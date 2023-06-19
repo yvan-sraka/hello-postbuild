@@ -1,0 +1,14 @@
+{
+   "image":"ghcr.io/yvan-sraka/iog-devx:latest",
+   "customizations":{
+      "vscode":{
+         "extensions":[
+            "haskell.haskell",
+            "Rubymaniac.vscode-direnv"
+         ],
+         "settings":{
+            "haskell.manageHLS":"PATH"
+         }
+      }
+   }
+}
